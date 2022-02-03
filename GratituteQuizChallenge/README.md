@@ -1,7 +1,5 @@
 # Quiz Challenge
 
-![quiz-challenge](https://github.com/Rishabhandari/GratituteInterviewCode/blob/master/GratituteQuizChallenge/screen/Quiz.gif)
-
 ### Prerequisites
 
 -   php v8.0, [see](https://laravel.com/docs/installation) Laravel specific requirements
