@@ -1,7 +1,6 @@
 # Quiz Challenge
 
-![Alt text](https://github.com/Rishabhandari/GratituteInterviewCode/blob/master/GratituteQuizChallenge/screen/Quiz.gif)
-<img src="https://github.com/Rishabhandari/GratituteInterviewCode/blob/master/GratituteQuizChallenge/screen/Quiz.gif" width="50">
+<img src="https://github.com/Rishabhandari/GratituteInterviewCode/blob/master/GratituteQuizChallenge/screen/Quiz.gif" width="400">
 
 ### Prerequisites
 
