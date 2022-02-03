@@ -1,5 +1,6 @@
 # Quiz Challenge
 
+![quiz-challenge](https://github.com/Rishabhandari/GratituteInterviewCode/blob/master/GratituteQuizChallenge/screen/Quiz.gif)
 
 ### Prerequisites
 
@@ -41,6 +42,9 @@ php artisan db:seed
 
 
 ```
+
 php artisan optimize
+
 ```
 
+```
