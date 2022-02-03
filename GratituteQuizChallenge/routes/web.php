@@ -1,5 +1,9 @@
 <?php
 
+use App\Models\Category;
+use App\Models\Option;
+use App\Models\Question;
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -15,4 +19,13 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
+});
+Route::get('dynamic-questions', function (Request $request) {
+    $category_type = Category::where('type', $request->input('type'))->first();
+
+    $questions =  Question::whereIn('category_id', [$category_type->id])->get();
+    $questions_id = collect($questions)->pluck('id');
+    $options = Option::whereIn('question_id', [21])->get();
+    // dd($options);
+    return view('question', compact('questions', 'category_type', 'options'));
 });
