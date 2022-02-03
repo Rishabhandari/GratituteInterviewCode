@@ -1,5 +1,5 @@
 # Quiz Challenge
-
+![Alt text](https://github.com/Rishabhandari/GratituteInterviewCode/blob/master/GratituteQuizChallenge/screen/Quiz.gif)
 ### Prerequisites
 
 -   php v8.0, [see](https://laravel.com/docs/installation) Laravel specific requirements
@@ -34,15 +34,5 @@ php artisan migrate
 php artisan db:seed
 ```
 
--   Create the symbolic link for local file uploads
-
-```
 
 
-```
-
-php artisan optimize
-
-```
-
-```
