@@ -1,6 +1,6 @@
 # Quiz Challenge
 
-<img src="https://github.com/Rishabhandari/GratituteInterviewCode/blob/master/GratituteQuizChallenge/screen/Quiz.gif" width="400">
+<img src="/screen/Quiz.mp4" width="400">
 
 ### Prerequisites
 
