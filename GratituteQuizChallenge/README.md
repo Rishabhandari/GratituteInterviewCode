@@ -1,5 +1,8 @@
 # Quiz Challenge
+
 ![Alt text](https://github.com/Rishabhandari/GratituteInterviewCode/blob/master/GratituteQuizChallenge/screen/Quiz.gif)
+<img src="https://github.com/Rishabhandari/GratituteInterviewCode/blob/master/GratituteQuizChallenge/screen/Quiz.gif" width="50">
+
 ### Prerequisites
 
 -   php v8.0, [see](https://laravel.com/docs/installation) Laravel specific requirements
@@ -33,6 +36,3 @@ php artisan key:generate
 php artisan migrate
 php artisan db:seed
 ```
-
-
-
